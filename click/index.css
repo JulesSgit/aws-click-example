@@ -1,0 +1,12 @@
+html,
+body{
+	height: 100%;
+}
+
+div{
+	background-color: #add8e6;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+        height: 100%;
+}
